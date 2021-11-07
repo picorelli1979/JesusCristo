@@ -1,0 +1,19 @@
+
+body{
+       background-color: chocolate;
+       font:  40pt  black ;
+       font-style: italic;
+       text-align: center;
+       
+}
+
+section{  
+         font:  15pt italic;
+         color: white;
+         padding: 50px;
+}
+
+footer {
+         font: 20pt large;
+         font-style: italic;
+}
